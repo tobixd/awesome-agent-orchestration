@@ -1,11 +1,13 @@
 # Awesome Agent Orchestration
 
-<!-- SEO Meta -->
 <!--
-  关键词: AI智能体, 多智能体系统, 智能体编排, 群体智能,
-  LLM智能体, 智能体框架, Claude AI, OpenAI智能体, CrewAI, AutoGen,
-  MetaGPT, LangGraph, 智能体通信协议, A2A, MCP, 智能体AI,
-  多智能体协作, 智能体工作流, 自主智能体, AI自动化
+  🔍 搜索关键词: ai智能体, 多智能体, 智能体编排, 群体智能,
+  llm智能体, 自主智能体, 智能体框架, 智能体ai, crewai, autogen,
+  metagpt, langgraph, swarms, a2a协议, mcp协议, 智能体工作流,
+  ai自动化, 多智能体系统, 智能体通信, ai agents
+
+  🏷️ GitHub标签: ai-agent, multi-agent, agent-orchestration, swarm-intelligence,
+  llm-agents, autogen, crewai, metagpt, langgraph, swarms, a2a-protocol, mcp
 -->
 
 [English](./README.md) | [中文](./README_zh.md)
@@ -15,7 +17,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-agent-orchestration)](https://github.com/vivy-yi/awesome-agent-orchestration/stargazers)
 [![欢迎贡献](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> 精选的**智能体编排**（Agent Orchestration）、**多智能体系统**（Multi-Agent Systems）、**群体智能**（Swarm Intelligence）开源框架、LLM智能体框架、工具、论文、教程和资源集合。涵盖 **AutoGen**、**CrewAI**、**MetaGPT**、**LangGraph**、**Swarms**、**A2A协议**、**MCP协议** 等。
+**最全面的智能体编排、多智能体系统、群体智能和LLM智能体框架精选列表。** 包含 AutoGen、CrewAI、MetaGPT、LangGraph、Swarms、A2A 协议、MCP 协议等。
+
+⭐ **如果帮到你找到 AI 智能体框架，请给这个仓库点个 Star！**
 
 ## 目录
 

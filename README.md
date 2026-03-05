@@ -1,11 +1,13 @@
 # Awesome Agent Orchestration
 
-<!-- SEO Meta -->
 <!--
-  Keywords: AI Agent, Multi-Agent System, Agent Orchestration, Swarm Intelligence,
-  LLM Agents, Agent Framework, Claude AI, OpenAI Agents, CrewAI, AutoGen,
-  MetaGPT, LangGraph, Agent Communication Protocol, A2A, MCP, Agentic AI,
-  Multi-Agent Collaboration, Agent Workflow, Autonomous Agents, AI Automation
+  🎯 Search Keywords: ai agent, multi-agent, agent orchestration, swarm intelligence,
+  llm agent, autonomous agent, agent framework, agentic ai, crewai, autogen,
+  metagpt, langgraph, swarms, a2a protocol, mcp protocol, agent workflow,
+  ai automation, multi-agent system, agent communication, ai agents
+
+  🔥 GitHub Topics: ai-agent, multi-agent, agent-orchestration, swarm-intelligence,
+  llm-agents, autogen, crewai, metagpt, langgraph, swarms, a2a-protocol, mcp
 -->
 
 [English](./README.md) | [中文](./README_zh.md)
@@ -15,7 +17,9 @@
 [![GitHub Stars](https://img.shields.io/github/stars/vivy-yi/awesome-agent-orchestration)](https://github.com/vivy-yi/awesome-agent-orchestration/stargazers)
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CONTRIBUTING.md)
 
-> A curated collection of open-source **Agent Orchestration** frameworks, **Multi-Agent Systems**, **Swarm Intelligence** tools, **LLM Agent** frameworks, research papers, tutorials, and resources. Covers **AutoGen**, **CrewAI**, **MetaGPT**, **LangGraph**, **Swarms**, **A2A Protocol**, **MCP Protocol**, and more.
+**The most comprehensive curated list of Agent Orchestration, Multi-Agent Systems, Swarm Intelligence, and LLM Agent frameworks.** Includes AutoGen, CrewAI, MetaGPT, LangGraph, Swarms, A2A Protocol, MCP Protocol and more.
+
+⭐ **Star this repo if it helps you find AI Agent frameworks!**
 
 ## Table of Contents
 
